@@ -198,4 +198,3 @@ $roomStatus->update([
     'date' => Carbon::now(),
 ]);
 
-link: https://github.com/Wayudhaaa/UAS_Wahyudha_prak.pemogramanwebdasar_d1_wahyudha_2209010167_ketersediaan_kamar.git
